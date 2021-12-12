@@ -26,3 +26,4 @@ cart page. In order to clear that we need to call ``localstorage.clean()`` which
 
 
 ## Cart Page
+The page cart stored the selected products and there is a button which clean the entire local storage. The functionality to clean that we need to call localstorage.clean() which clears the stored items.
