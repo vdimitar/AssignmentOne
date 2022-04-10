@@ -1,3 +1,9 @@
+#Dimitar Vasilev
+## Interactive application Assignment 2
+### account details: email: dimitar.j.vasilev@gmail.com password: 1234
+#### ID CARD: 20889341
+
+
 ## Summary of the project
 
 First, the aim of the project is to create a front-end web application and the requirement is to build a new web application for the student shop of Uclan (UNIVERSITY OF CENTRAL LANCASHIRE). On the first page, which is the home page, I provide a logo and 3 buttons, that are linked to the other pages. Also, on the body of the page, there are two videos, for the one I use the functionality of iframe, and the other is a standard video.
@@ -17,8 +23,8 @@ On the home page you can see teh header which is the same as the rest of the pag
 ## Product Page
 
 
-Inside the product page we can show more information of each product using `sessionstogare` which is a javascript functionality to get and store an item and be available only during the session, if we close the page the item will be cleared.
-With this line of code `sessionStorage.selected = JSON.stringify(products[index]);` we populate the `sessionstorage` key `selecteditems` and then we are able to access it anywhere during the current session.
+Inside the product page we can show more information of each product using DATABASE which is a PHP functionality to get and store an item .
+
 
 Another functionality we have is "Add to cart" which uses a `localstorage` functionality of the javascript programming language which stores an item in the local storage and it can be available all over the pages and display it, In our case we store the products the users wish to buy and they are displayed in the 
 cart page. In order to clear that we need to call ``localstorage.clean()`` which clears the stored items. 
