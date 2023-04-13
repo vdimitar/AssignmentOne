@@ -1,7 +1,6 @@
 #Dimitar Vasilev
 ## Interactive application Assignment 2
-### account details: email: dimitar.j.vasilev@gmail.com password: 1234
-#### ID CARD: 20889341
+
 
 
 ## Summary of the project
